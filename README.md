@@ -37,11 +37,11 @@ In addition to financial tracing, this investigation identified several consiste
 
 ---
 
-## 4. Purpose of Request
-The intelligence gathered through this RFI will be utilized to:
-1.  **Perform Link Analysis:** Finalize the mapping of the 20-member fraud ring.
-2.  **Support Law Enforcement:** Provide high-fidelity evidence to **FBI and Interpol**.
-3.  **Facilitate Asset Recovery:** Support the legal process to recover the remaining **80% of the victim’s stolen funds.**
+## 4. Framework Alignment
+This investigation and methodology align with the following industry standards:
+* **NIST CSF 2.0:** Applied across Detect, Respond, and Recover functions.
+* **NIST SP 800-61 Rev. 2:** Followed for formal Incident Response and Evidence Handling.
+* **NIST SP 800-63:** Utilized for analyzing Digital Identity and Authentication failures.
 
 ---
 
