@@ -38,7 +38,7 @@ In addition to financial tracing, this investigation identified several consiste
 ---
 
 ## 4. Framework Alignment
-This investigation and methodology align with the following industry standards:
+This investigation and methodology align with the following National Institute of Standards and Technology (NIST) standards:
 * **NIST CSF 2.0:** Applied across Detect, Respond, and Recover functions.
 * **NIST SP 800-61 Rev. 2:** Followed for formal Incident Response and Evidence Handling.
 * **NIST SP 800-63:** Utilized for analyzing Digital Identity and Authentication failures.
