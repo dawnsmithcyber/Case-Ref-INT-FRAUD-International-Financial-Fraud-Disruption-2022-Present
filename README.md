@@ -1,0 +1,2 @@
+# Case-Ref-INT-FRAUD-International-Financial-Fraud-Disruption-2022-Present
+Documentation of a high-value forensic investigation framework. This repository focuses on the methodology for tracing $1.2M+ in international fraud, specifically highlighting Request for Information (RFI) protocols and intelligence gathering. Note: Case-specific documentation is restricted due to the ongoing nature of the investigation.
